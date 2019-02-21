@@ -1,0 +1,1 @@
+Showcasing HTML and CSS by recreating a popular Wordpress template. No functionality yet. 
